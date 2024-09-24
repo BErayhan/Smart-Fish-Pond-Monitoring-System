@@ -34,7 +34,7 @@ const char* apiKey1 = "YGZQPAM38A546YV4";
 const char* server = "api.thingspeak.com";
 
 //buat whatsapp
-String phoneNumber = "6289604415126";
+String phoneNumber = "628xxxxxxxxxx";
 String apiKey = "1465063";
 
  
